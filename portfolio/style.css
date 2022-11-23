@@ -110,6 +110,13 @@ border: 1px solid rgba(255, 255, 255, 0.65);
   visibility: hidden;
 
 }
+
+#contact-background.animate.active {
+  
+  visibility: visible;
+
+}
+
 #contact {
   position: absolute;
   margin-top: 750px;
